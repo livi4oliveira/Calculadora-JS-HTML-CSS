@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+}
+input{
+    color: black;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Dongle', sans-serif;
+    border-radius: 25%;
+    border-color:  #FB047C;
+}
+.text1{
+    width: 24px;
+    height: 26px;
+    border-radius: 50%;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+    border-color:  #FB047C;
+}
+.text2{
+    width: 230px;
+    height: 10px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-bottom: 12px; 
+    border-color:  #FB047C;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 40px;
+    border-radius: 30px;
+}
+
+.num{
+    width: 64px;
+    height: 67px;
+}
+.text{
+    width: 160px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    border-color:  #FB047C;
+}
+
+.main{
+    display: inline-block;
+}
+
+.maincolor{
+    background-color:#D2B4DE ;  
+}
+.blue{
+    background-color: #A9CCE3;
+    font-weight: bold;
+    
+}
+.pin{
+    background-color: #FF85C6;
+    font-weight: bold;
+}
+.gre{
+    background-color: #C985FF ;
+    font-weight: bold;
+}
+.pur{
+    background-color: #FFC885 ;
+    font-weight: bold;
+}
+.ora{
+    background-color: #E5FF85 ;
+    font-weight: bold;
+}
+.rodape{
+    font-family: 'Dongle', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    color:  #FB047C;
+}
