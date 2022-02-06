@@ -6,8 +6,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: pink;
-}
+    background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);}
 input{
     color: black;
     padding: 17px;
@@ -64,7 +63,6 @@ input{
 .blue{
     background-color: #A9CCE3;
     font-weight: bold;
-    
 }
 .pin{
     background-color: #FF85C6;
